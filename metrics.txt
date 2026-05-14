@@ -1,0 +1,906 @@
+029.American_Crow/American_Crow_0001_25053.jpg
+  KMeans : IoU=0.003  Dice=0.005  SSIM=0.550
+  Otsu   : IoU=0.774  Dice=0.873  SSIM=0.860
+
+029.American_Crow/American_Crow_0002_25122.jpg
+  KMeans : IoU=0.373  Dice=0.543  SSIM=0.489
+  Otsu   : IoU=0.575  Dice=0.730  SSIM=0.680
+
+029.American_Crow/American_Crow_0003_25130.jpg
+  KMeans : IoU=0.058  Dice=0.109  SSIM=0.720
+  Otsu   : IoU=0.234  Dice=0.379  SSIM=0.582
+
+029.American_Crow/American_Crow_0004_25819.jpg
+  KMeans : IoU=0.585  Dice=0.738  SSIM=0.669
+  Otsu   : IoU=0.701  Dice=0.824  SSIM=0.747
+
+029.American_Crow/American_Crow_0011_25151.jpg
+  KMeans : IoU=0.003  Dice=0.007  SSIM=0.500
+  Otsu   : IoU=0.198  Dice=0.331  SSIM=0.451
+
+029.American_Crow/American_Crow_0012_25305.jpg
+  KMeans : IoU=0.348  Dice=0.516  SSIM=0.596
+  Otsu   : IoU=0.399  Dice=0.570  SSIM=0.644
+
+029.American_Crow/American_Crow_0014_25287.jpg
+  KMeans : IoU=0.408  Dice=0.580  SSIM=0.708
+  Otsu   : IoU=0.872  Dice=0.932  SSIM=0.897
+
+029.American_Crow/American_Crow_0016_25112.jpg
+  KMeans : IoU=0.035  Dice=0.068  SSIM=0.609
+  Otsu   : IoU=0.597  Dice=0.748  SSIM=0.802
+
+029.American_Crow/American_Crow_0020_25618.jpg
+  KMeans : IoU=0.199  Dice=0.332  SSIM=0.189
+  Otsu   : IoU=0.481  Dice=0.649  SSIM=0.614
+
+029.American_Crow/American_Crow_0021_25137.jpg
+  KMeans : IoU=0.043  Dice=0.082  SSIM=0.465
+  Otsu   : IoU=0.488  Dice=0.656  SSIM=0.655
+
+029.American_Crow/American_Crow_0025_25522.jpg
+  KMeans : IoU=0.475  Dice=0.644  SSIM=0.856
+  Otsu   : IoU=0.548  Dice=0.708  SSIM=0.871
+
+029.American_Crow/American_Crow_0027_25146.jpg
+  KMeans : IoU=0.247  Dice=0.397  SSIM=0.337
+  Otsu   : IoU=0.473  Dice=0.642  SSIM=0.588
+
+029.American_Crow/American_Crow_0030_25092.jpg
+  KMeans : IoU=0.062  Dice=0.118  SSIM=0.163
+  Otsu   : IoU=0.871  Dice=0.931  SSIM=0.965
+
+029.American_Crow/American_Crow_0031_25433.jpg
+  KMeans : IoU=0.054  Dice=0.103  SSIM=0.496
+  Otsu   : IoU=0.137  Dice=0.240  SSIM=0.475
+
+029.American_Crow/American_Crow_0036_25313.jpg
+  KMeans : IoU=0.220  Dice=0.361  SSIM=0.273
+  Otsu   : IoU=0.695  Dice=0.820  SSIM=0.840
+
+029.American_Crow/American_Crow_0039_25061.jpg
+  KMeans : IoU=0.012  Dice=0.024  SSIM=0.535
+  Otsu   : IoU=0.663  Dice=0.797  SSIM=0.775
+
+029.American_Crow/American_Crow_0043_25666.jpg
+  KMeans : IoU=0.301  Dice=0.463  SSIM=0.353
+  Otsu   : IoU=0.321  Dice=0.486  SSIM=0.391
+
+029.American_Crow/American_Crow_0047_25397.jpg
+  KMeans : IoU=0.547  Dice=0.707  SSIM=0.777
+  Otsu   : IoU=0.545  Dice=0.706  SSIM=0.775
+
+029.American_Crow/American_Crow_0048_25062.jpg
+  KMeans : IoU=0.700  Dice=0.823  SSIM=0.882
+  Otsu   : IoU=0.702  Dice=0.825  SSIM=0.888
+
+029.American_Crow/American_Crow_0050_25255.jpg
+  KMeans : IoU=0.166  Dice=0.285  SSIM=0.136
+  Otsu   : IoU=0.658  Dice=0.793  SSIM=0.636
+
+[029.American_Crow] MEAN → KMeans: IoU=0.242 Dice=0.345 | Otsu: IoU=0.547 Dice=0.682
+------------------------------------------------------------
+
+030.Fish_Crow/Fish_Crow_0001_26031.jpg
+  KMeans : IoU=0.345  Dice=0.513  SSIM=0.686
+  Otsu   : IoU=0.361  Dice=0.531  SSIM=0.715
+
+030.Fish_Crow/Fish_Crow_0002_26072.jpg
+  KMeans : IoU=0.840  Dice=0.913  SSIM=0.820
+  Otsu   : IoU=0.758  Dice=0.862  SSIM=0.738
+
+030.Fish_Crow/Fish_Crow_0003_25970.jpg
+  KMeans : IoU=0.434  Dice=0.606  SSIM=0.667
+  Otsu   : IoU=0.865  Dice=0.927  SSIM=0.921
+
+030.Fish_Crow/Fish_Crow_0004_25936.jpg
+  KMeans : IoU=0.615  Dice=0.762  SSIM=0.714
+  Otsu   : IoU=0.856  Dice=0.922  SSIM=0.892
+
+030.Fish_Crow/Fish_Crow_0005_25912.jpg
+  KMeans : IoU=0.005  Dice=0.009  SSIM=0.321
+  Otsu   : IoU=0.248  Dice=0.398  SSIM=0.398
+
+030.Fish_Crow/Fish_Crow_0007_26023.jpg
+  KMeans : IoU=0.927  Dice=0.962  SSIM=0.951
+  Otsu   : IoU=0.911  Dice=0.953  SSIM=0.941
+
+030.Fish_Crow/Fish_Crow_0010_25836.jpg
+  KMeans : IoU=0.395  Dice=0.566  SSIM=0.647
+  Otsu   : IoU=0.492  Dice=0.659  SSIM=0.738
+
+030.Fish_Crow/Fish_Crow_0011_25866.jpg
+  KMeans : IoU=0.142  Dice=0.249  SSIM=0.206
+  Otsu   : IoU=0.261  Dice=0.414  SSIM=0.485
+
+030.Fish_Crow/Fish_Crow_0012_25946.jpg
+  KMeans : IoU=0.512  Dice=0.677  SSIM=0.593
+  Otsu   : IoU=0.589  Dice=0.741  SSIM=0.689
+
+030.Fish_Crow/Fish_Crow_0013_25939.jpg
+  KMeans : IoU=0.005  Dice=0.010  SSIM=0.731
+  Otsu   : IoU=0.005  Dice=0.010  SSIM=0.708
+
+030.Fish_Crow/Fish_Crow_0014_26041.jpg
+  KMeans : IoU=0.001  Dice=0.002  SSIM=0.677
+  Otsu   : IoU=0.509  Dice=0.675  SSIM=0.843
+
+030.Fish_Crow/Fish_Crow_0016_25854.jpg
+  KMeans : IoU=0.814  Dice=0.898  SSIM=0.874
+  Otsu   : IoU=0.842  Dice=0.914  SSIM=0.893
+
+030.Fish_Crow/Fish_Crow_0017_26127.jpg
+  KMeans : IoU=0.002  Dice=0.004  SSIM=0.406
+  Otsu   : IoU=0.578  Dice=0.733  SSIM=0.850
+
+030.Fish_Crow/Fish_Crow_0018_25879.jpg
+  KMeans : IoU=0.088  Dice=0.162  SSIM=0.793
+  Otsu   : IoU=0.381  Dice=0.552  SSIM=0.894
+
+030.Fish_Crow/Fish_Crow_0020_26027.jpg
+  KMeans : IoU=0.019  Dice=0.037  SSIM=0.572
+  Otsu   : IoU=0.027  Dice=0.053  SSIM=0.452
+
+030.Fish_Crow/Fish_Crow_0022_26062.jpg
+  KMeans : IoU=0.176  Dice=0.300  SSIM=0.136
+  Otsu   : IoU=0.553  Dice=0.712  SSIM=0.676
+
+030.Fish_Crow/Fish_Crow_0023_26037.jpg
+  KMeans : IoU=0.136  Dice=0.240  SSIM=0.116
+  Otsu   : IoU=0.819  Dice=0.901  SSIM=0.893
+
+030.Fish_Crow/Fish_Crow_0024_26064.jpg
+  KMeans : IoU=0.005  Dice=0.010  SSIM=0.005
+  Otsu   : IoU=0.047  Dice=0.089  SSIM=0.045
+
+030.Fish_Crow/Fish_Crow_0025_25893.jpg
+  KMeans : IoU=0.670  Dice=0.802  SSIM=0.871
+  Otsu   : IoU=0.667  Dice=0.800  SSIM=0.869
+
+030.Fish_Crow/Fish_Crow_0028_25968.jpg
+  KMeans : IoU=0.001  Dice=0.002  SSIM=0.674
+  Otsu   : IoU=0.013  Dice=0.025  SSIM=0.291
+
+030.Fish_Crow/Fish_Crow_0031_25909.jpg
+  KMeans : IoU=0.004  Dice=0.007  SSIM=0.769
+  Otsu   : IoU=0.657  Dice=0.793  SSIM=0.918
+
+030.Fish_Crow/Fish_Crow_0032_26014.jpg
+  KMeans : IoU=0.178  Dice=0.302  SSIM=0.177
+  Otsu   : IoU=0.362  Dice=0.532  SSIM=0.419
+
+[030.Fish_Crow] MEAN → KMeans: IoU=0.287 Dice=0.365 | Otsu: IoU=0.491 Dice=0.600
+------------------------------------------------------------
+
+100.Brown_Pelican/Brown_Pelican_0002_94773.jpg
+  KMeans : IoU=0.300  Dice=0.461  SSIM=0.416
+  Otsu   : IoU=0.302  Dice=0.464  SSIM=0.421
+
+100.Brown_Pelican/Brown_Pelican_0003_94427.jpg
+  KMeans : IoU=0.245  Dice=0.394  SSIM=0.479
+  Otsu   : IoU=0.251  Dice=0.401  SSIM=0.562
+
+100.Brown_Pelican/Brown_Pelican_0007_94078.jpg
+  KMeans : IoU=0.283  Dice=0.441  SSIM=0.779
+  Otsu   : IoU=0.575  Dice=0.730  SSIM=0.804
+
+100.Brown_Pelican/Brown_Pelican_0009_94256.jpg
+  KMeans : IoU=0.292  Dice=0.452  SSIM=0.870
+  Otsu   : IoU=0.583  Dice=0.737  SSIM=0.907
+
+100.Brown_Pelican/Brown_Pelican_0010_94370.jpg
+  KMeans : IoU=0.466  Dice=0.636  SSIM=0.655
+  Otsu   : IoU=0.465  Dice=0.635  SSIM=0.649
+
+100.Brown_Pelican/Brown_Pelican_0011_94683.jpg
+  KMeans : IoU=0.085  Dice=0.157  SSIM=0.623
+  Otsu   : IoU=0.107  Dice=0.194  SSIM=0.626
+
+100.Brown_Pelican/Brown_Pelican_0012_94079.jpg
+  KMeans : IoU=0.736  Dice=0.848  SSIM=0.898
+  Otsu   : IoU=0.643  Dice=0.782  SSIM=0.869
+
+100.Brown_Pelican/Brown_Pelican_0013_93589.jpg
+  KMeans : IoU=0.326  Dice=0.492  SSIM=0.479
+  Otsu   : IoU=0.389  Dice=0.561  SSIM=0.621
+
+100.Brown_Pelican/Brown_Pelican_0017_94383.jpg
+  KMeans : IoU=0.101  Dice=0.183  SSIM=0.576
+  Otsu   : IoU=0.121  Dice=0.216  SSIM=0.563
+
+100.Brown_Pelican/Brown_Pelican_0018_94432.jpg
+  KMeans : IoU=0.169  Dice=0.289  SSIM=0.658
+  Otsu   : IoU=0.176  Dice=0.299  SSIM=0.588
+
+100.Brown_Pelican/Brown_Pelican_0019_95158.jpg
+  KMeans : IoU=0.091  Dice=0.167  SSIM=0.550
+  Otsu   : IoU=0.101  Dice=0.184  SSIM=0.491
+
+100.Brown_Pelican/Brown_Pelican_0020_95422.jpg
+  KMeans : IoU=0.882  Dice=0.937  SSIM=0.967
+  Otsu   : IoU=0.784  Dice=0.879  SSIM=0.958
+
+100.Brown_Pelican/Brown_Pelican_0025_95218.jpg
+  KMeans : IoU=0.271  Dice=0.427  SSIM=0.419
+  Otsu   : IoU=0.284  Dice=0.442  SSIM=0.472
+
+100.Brown_Pelican/Brown_Pelican_0031_93874.jpg
+  KMeans : IoU=0.211  Dice=0.348  SSIM=0.577
+  Otsu   : IoU=0.212  Dice=0.350  SSIM=0.574
+
+100.Brown_Pelican/Brown_Pelican_0036_93843.jpg
+  KMeans : IoU=0.388  Dice=0.559  SSIM=0.485
+  Otsu   : IoU=0.403  Dice=0.574  SSIM=0.516
+
+100.Brown_Pelican/Brown_Pelican_0039_95216.jpg
+  KMeans : IoU=0.281  Dice=0.439  SSIM=0.219
+  Otsu   : IoU=0.837  Dice=0.911  SSIM=0.900
+
+100.Brown_Pelican/Brown_Pelican_0040_94051.jpg
+  KMeans : IoU=0.157  Dice=0.271  SSIM=0.565
+  Otsu   : IoU=0.150  Dice=0.260  SSIM=0.583
+
+100.Brown_Pelican/Brown_Pelican_0041_93720.jpg
+  KMeans : IoU=0.812  Dice=0.896  SSIM=0.845
+  Otsu   : IoU=0.729  Dice=0.843  SSIM=0.809
+
+100.Brown_Pelican/Brown_Pelican_0043_94506.jpg
+  KMeans : IoU=0.220  Dice=0.360  SSIM=0.400
+  Otsu   : IoU=0.212  Dice=0.350  SSIM=0.400
+
+100.Brown_Pelican/Brown_Pelican_0049_94598.jpg
+  KMeans : IoU=0.937  Dice=0.967  SSIM=0.969
+  Otsu   : IoU=0.931  Dice=0.965  SSIM=0.968
+
+100.Brown_Pelican/Brown_Pelican_0051_94578.jpg
+  KMeans : IoU=0.019  Dice=0.037  SSIM=0.235
+  Otsu   : IoU=0.245  Dice=0.394  SSIM=0.690
+
+100.Brown_Pelican/Brown_Pelican_0056_95229.jpg
+  KMeans : IoU=0.071  Dice=0.133  SSIM=0.489
+  Otsu   : IoU=0.087  Dice=0.160  SSIM=0.605
+
+[100.Brown_Pelican] MEAN → KMeans: IoU=0.334 Dice=0.450 | Otsu: IoU=0.390 Dice=0.515
+------------------------------------------------------------
+
+101.White_Pelican/White_Pelican_0003_96691.jpg
+  KMeans : IoU=0.599  Dice=0.749  SSIM=0.851
+  Otsu   : IoU=0.738  Dice=0.849  SSIM=0.884
+
+101.White_Pelican/White_Pelican_0005_95916.jpg
+  KMeans : IoU=0.077  Dice=0.143  SSIM=0.101
+  Otsu   : IoU=0.037  Dice=0.071  SSIM=0.034
+
+101.White_Pelican/White_Pelican_0009_97340.jpg
+  KMeans : IoU=0.372  Dice=0.542  SSIM=0.912
+  Otsu   : IoU=0.049  Dice=0.094  SSIM=0.542
+
+101.White_Pelican/White_Pelican_0010_96876.jpg
+  KMeans : IoU=0.536  Dice=0.698  SSIM=0.601
+  Otsu   : IoU=0.674  Dice=0.805  SSIM=0.658
+
+101.White_Pelican/White_Pelican_0012_97261.jpg
+  KMeans : IoU=0.207  Dice=0.343  SSIM=0.615
+  Otsu   : IoU=0.132  Dice=0.234  SSIM=0.450
+
+101.White_Pelican/White_Pelican_0013_96901.jpg
+  KMeans : IoU=0.380  Dice=0.551  SSIM=0.527
+  Otsu   : IoU=0.331  Dice=0.497  SSIM=0.312
+
+101.White_Pelican/White_Pelican_0014_96417.jpg
+  KMeans : IoU=0.171  Dice=0.292  SSIM=0.464
+  Otsu   : IoU=0.166  Dice=0.285  SSIM=0.421
+
+101.White_Pelican/White_Pelican_0015_96952.jpg
+  KMeans : IoU=0.471  Dice=0.640  SSIM=0.835
+  Otsu   : IoU=0.467  Dice=0.637  SSIM=0.829
+
+101.White_Pelican/White_Pelican_0016_96659.jpg
+  KMeans : IoU=0.350  Dice=0.518  SSIM=0.881
+  Otsu   : IoU=0.351  Dice=0.519  SSIM=0.881
+
+101.White_Pelican/White_Pelican_0022_95897.jpg
+  KMeans : IoU=0.674  Dice=0.806  SSIM=0.939
+  Otsu   : IoU=0.690  Dice=0.816  SSIM=0.937
+
+101.White_Pelican/White_Pelican_0024_96554.jpg
+  KMeans : IoU=0.540  Dice=0.701  SSIM=0.792
+  Otsu   : IoU=0.510  Dice=0.676  SSIM=0.784
+
+101.White_Pelican/White_Pelican_0025_97604.jpg
+  KMeans : IoU=0.362  Dice=0.531  SSIM=0.819
+  Otsu   : IoU=0.116  Dice=0.209  SSIM=0.233
+
+101.White_Pelican/White_Pelican_0026_95832.jpg
+  KMeans : IoU=0.803  Dice=0.891  SSIM=0.889
+  Otsu   : IoU=0.850  Dice=0.919  SSIM=0.899
+
+101.White_Pelican/White_Pelican_0028_95950.jpg
+  KMeans : IoU=0.383  Dice=0.554  SSIM=0.731
+  Otsu   : IoU=0.466  Dice=0.636  SSIM=0.754
+
+101.White_Pelican/White_Pelican_0031_97064.jpg
+  KMeans : IoU=0.489  Dice=0.657  SSIM=0.843
+  Otsu   : IoU=0.484  Dice=0.652  SSIM=0.841
+
+101.White_Pelican/White_Pelican_0032_96920.jpg
+  KMeans : IoU=0.642  Dice=0.782  SSIM=0.845
+  Otsu   : IoU=0.704  Dice=0.827  SSIM=0.829
+
+101.White_Pelican/White_Pelican_0034_97466.jpg
+  KMeans : IoU=0.577  Dice=0.732  SSIM=0.834
+  Otsu   : IoU=0.364  Dice=0.534  SSIM=0.580
+
+101.White_Pelican/White_Pelican_0035_96312.jpg
+  KMeans : IoU=0.605  Dice=0.754  SSIM=0.869
+  Otsu   : IoU=0.089  Dice=0.163  SSIM=0.337
+
+101.White_Pelican/White_Pelican_0036_96863.jpg
+  KMeans : IoU=0.526  Dice=0.689  SSIM=0.788
+  Otsu   : IoU=0.551  Dice=0.711  SSIM=0.798
+
+101.White_Pelican/White_Pelican_0037_95570.jpg
+  KMeans : IoU=0.641  Dice=0.781  SSIM=0.848
+  Otsu   : IoU=0.573  Dice=0.728  SSIM=0.833
+
+101.White_Pelican/White_Pelican_0039_97363.jpg
+  KMeans : IoU=0.294  Dice=0.454  SSIM=0.887
+  Otsu   : IoU=0.536  Dice=0.698  SSIM=0.919
+
+101.White_Pelican/White_Pelican_0040_96026.jpg
+  KMeans : IoU=0.223  Dice=0.364  SSIM=0.532
+  Otsu   : IoU=0.138  Dice=0.243  SSIM=0.208
+
+[101.White_Pelican] MEAN → KMeans: IoU=0.451 Dice=0.599 | Otsu: IoU=0.410 Dice=0.537
+------------------------------------------------------------
+
+107.Common_Raven/Common_Raven_0001_101213.jpg
+  KMeans : IoU=0.360  Dice=0.530  SSIM=0.551
+  Otsu   : IoU=0.551  Dice=0.710  SSIM=0.691
+
+107.Common_Raven/Common_Raven_0002_102582.jpg
+  KMeans : IoU=0.434  Dice=0.605  SSIM=0.467
+  Otsu   : IoU=0.909  Dice=0.952  SSIM=0.910
+
+107.Common_Raven/Common_Raven_0005_101347.jpg
+  KMeans : IoU=0.270  Dice=0.425  SSIM=0.532
+  Otsu   : IoU=0.419  Dice=0.591  SSIM=0.733
+
+107.Common_Raven/Common_Raven_0007_102020.jpg
+  KMeans : IoU=0.346  Dice=0.514  SSIM=0.469
+  Otsu   : IoU=0.431  Dice=0.602  SSIM=0.610
+
+107.Common_Raven/Common_Raven_0009_102112.jpg
+  KMeans : IoU=0.068  Dice=0.128  SSIM=0.665
+  Otsu   : IoU=0.746  Dice=0.855  SSIM=0.891
+
+107.Common_Raven/Common_Raven_0010_101390.jpg
+  KMeans : IoU=0.363  Dice=0.533  SSIM=0.623
+  Otsu   : IoU=0.458  Dice=0.628  SSIM=0.724
+
+107.Common_Raven/Common_Raven_0015_101364.jpg
+  KMeans : IoU=0.289  Dice=0.449  SSIM=0.442
+  Otsu   : IoU=0.294  Dice=0.454  SSIM=0.461
+
+107.Common_Raven/Common_Raven_0017_102044.jpg
+  KMeans : IoU=0.458  Dice=0.628  SSIM=0.481
+  Otsu   : IoU=0.937  Dice=0.967  SSIM=0.928
+
+107.Common_Raven/Common_Raven_0018_101713.jpg
+  KMeans : IoU=0.221  Dice=0.362  SSIM=0.282
+  Otsu   : IoU=0.494  Dice=0.662  SSIM=0.662
+
+107.Common_Raven/Common_Raven_0021_101767.jpg
+  KMeans : IoU=0.252  Dice=0.403  SSIM=0.573
+  Otsu   : IoU=0.255  Dice=0.406  SSIM=0.575
+
+107.Common_Raven/Common_Raven_0023_102437.jpg
+  KMeans : IoU=0.053  Dice=0.101  SSIM=0.777
+  Otsu   : IoU=0.544  Dice=0.704  SSIM=0.869
+
+107.Common_Raven/Common_Raven_0024_101394.jpg
+  KMeans : IoU=0.803  Dice=0.891  SSIM=0.900
+  Otsu   : IoU=0.824  Dice=0.903  SSIM=0.909
+
+107.Common_Raven/Common_Raven_0025_102584.jpg
+  KMeans : IoU=0.355  Dice=0.524  SSIM=0.435
+  Otsu   : IoU=0.624  Dice=0.769  SSIM=0.754
+
+107.Common_Raven/Common_Raven_0028_102452.jpg
+  KMeans : IoU=0.350  Dice=0.519  SSIM=0.541
+  Otsu   : IoU=0.360  Dice=0.529  SSIM=0.560
+
+107.Common_Raven/Common_Raven_0029_102039.jpg
+  KMeans : IoU=0.834  Dice=0.909  SSIM=0.945
+  Otsu   : IoU=0.874  Dice=0.933  SSIM=0.965
+
+107.Common_Raven/Common_Raven_0033_101759.jpg
+  KMeans : IoU=0.175  Dice=0.298  SSIM=0.309
+  Otsu   : IoU=0.787  Dice=0.881  SSIM=0.895
+
+107.Common_Raven/Common_Raven_0035_101466.jpg
+  KMeans : IoU=0.209  Dice=0.346  SSIM=0.398
+  Otsu   : IoU=0.728  Dice=0.842  SSIM=0.885
+
+107.Common_Raven/Common_Raven_0036_102025.jpg
+  KMeans : IoU=0.725  Dice=0.840  SSIM=0.688
+  Otsu   : IoU=0.749  Dice=0.857  SSIM=0.721
+
+107.Common_Raven/Common_Raven_0037_101096.jpg
+  KMeans : IoU=0.005  Dice=0.009  SSIM=0.529
+  Otsu   : IoU=0.008  Dice=0.016  SSIM=0.336
+
+107.Common_Raven/Common_Raven_0043_101901.jpg
+  KMeans : IoU=0.498  Dice=0.665  SSIM=0.889
+  Otsu   : IoU=0.817  Dice=0.899  SSIM=0.940
+
+107.Common_Raven/Common_Raven_0052_101909.jpg
+  KMeans : IoU=0.338  Dice=0.506  SSIM=0.339
+  Otsu   : IoU=0.820  Dice=0.901  SSIM=0.849
+
+107.Common_Raven/Common_Raven_0053_101291.jpg
+  KMeans : IoU=0.183  Dice=0.309  SSIM=0.261
+  Otsu   : IoU=0.239  Dice=0.385  SSIM=0.384
+
+[107.Common_Raven] MEAN → KMeans: IoU=0.345 Dice=0.477 | Otsu: IoU=0.585 Dice=0.702
+------------------------------------------------------------
+
+108.White_necked_Raven/White_Necked_Raven_0001_797384.jpg
+  KMeans : IoU=0.117  Dice=0.209  SSIM=0.258
+  Otsu   : IoU=0.261  Dice=0.414  SSIM=0.266
+
+108.White_necked_Raven/White_Necked_Raven_0002_797370.jpg
+  KMeans : IoU=0.044  Dice=0.084  SSIM=0.374
+  Otsu   : IoU=0.655  Dice=0.791  SSIM=0.702
+
+108.White_necked_Raven/White_Necked_Raven_0003_797376.jpg
+  KMeans : IoU=0.019  Dice=0.037  SSIM=0.347
+  Otsu   : IoU=0.273  Dice=0.429  SSIM=0.325
+
+108.White_necked_Raven/White_Necked_Raven_0004_102714.jpg
+  KMeans : IoU=0.093  Dice=0.170  SSIM=0.434
+  Otsu   : IoU=0.123  Dice=0.218  SSIM=0.437
+
+108.White_necked_Raven/White_Necked_Raven_0005_102653.jpg
+  KMeans : IoU=0.007  Dice=0.014  SSIM=0.485
+  Otsu   : IoU=0.008  Dice=0.015  SSIM=0.452
+
+108.White_necked_Raven/White_Necked_Raven_0006_797347.jpg
+  KMeans : IoU=0.209  Dice=0.345  SSIM=0.303
+  Otsu   : IoU=0.669  Dice=0.801  SSIM=0.808
+
+108.White_necked_Raven/White_Necked_Raven_0007_102676.jpg
+  KMeans : IoU=0.382  Dice=0.553  SSIM=0.376
+  Otsu   : IoU=0.401  Dice=0.573  SSIM=0.398
+
+108.White_necked_Raven/White_Necked_Raven_0008_797389.jpg
+  KMeans : IoU=0.010  Dice=0.019  SSIM=0.680
+  Otsu   : IoU=0.010  Dice=0.020  SSIM=0.648
+
+108.White_necked_Raven/White_Necked_Raven_0009_102518.jpg
+  KMeans : IoU=0.124  Dice=0.221  SSIM=0.605
+  Otsu   : IoU=0.217  Dice=0.357  SSIM=0.771
+
+108.White_necked_Raven/White_Necked_Raven_0010_797350.jpg
+  KMeans : IoU=0.251  Dice=0.402  SSIM=0.493
+  Otsu   : IoU=0.267  Dice=0.421  SSIM=0.535
+
+108.White_necked_Raven/White_Necked_Raven_0011_797367.jpg
+  KMeans : IoU=0.504  Dice=0.670  SSIM=0.554
+  Otsu   : IoU=0.710  Dice=0.830  SSIM=0.741
+
+108.White_necked_Raven/White_Necked_Raven_0012_102700.jpg
+  KMeans : IoU=0.051  Dice=0.097  SSIM=0.283
+  Otsu   : IoU=0.067  Dice=0.125  SSIM=0.440
+
+108.White_necked_Raven/White_Necked_Raven_0014_102687.jpg
+  KMeans : IoU=0.131  Dice=0.232  SSIM=0.725
+  Otsu   : IoU=0.131  Dice=0.232  SSIM=0.725
+
+108.White_necked_Raven/White_Necked_Raven_0015_102593.jpg
+  KMeans : IoU=0.257  Dice=0.409  SSIM=0.470
+  Otsu   : IoU=0.334  Dice=0.500  SSIM=0.586
+
+108.White_necked_Raven/White_Necked_Raven_0016_797385.jpg
+  KMeans : IoU=0.347  Dice=0.515  SSIM=0.364
+  Otsu   : IoU=0.501  Dice=0.668  SSIM=0.570
+
+108.White_necked_Raven/White_Necked_Raven_0018_102746.jpg
+  KMeans : IoU=0.188  Dice=0.316  SSIM=0.200
+  Otsu   : IoU=0.241  Dice=0.389  SSIM=0.353
+
+108.White_necked_Raven/White_Necked_Raven_0019_797377.jpg
+  KMeans : IoU=0.814  Dice=0.897  SSIM=0.869
+  Otsu   : IoU=0.817  Dice=0.899  SSIM=0.867
+
+108.White_necked_Raven/White_Necked_Raven_0020_102730.jpg
+  KMeans : IoU=0.334  Dice=0.500  SSIM=0.472
+  Otsu   : IoU=0.678  Dice=0.808  SSIM=0.816
+
+108.White_necked_Raven/White_Necked_Raven_0021_797341.jpg
+  KMeans : IoU=0.235  Dice=0.381  SSIM=0.195
+  Otsu   : IoU=0.505  Dice=0.672  SSIM=0.557
+
+108.White_necked_Raven/White_Necked_Raven_0023_797371.jpg
+  KMeans : IoU=0.118  Dice=0.211  SSIM=0.423
+  Otsu   : IoU=0.101  Dice=0.183  SSIM=0.674
+
+108.White_necked_Raven/White_Necked_Raven_0024_797364.jpg
+  KMeans : IoU=0.776  Dice=0.874  SSIM=0.939
+  Otsu   : IoU=0.753  Dice=0.859  SSIM=0.936
+
+108.White_necked_Raven/White_Necked_Raven_0025_797346.jpg
+  KMeans : IoU=0.983  Dice=0.991  SSIM=0.964
+  Otsu   : IoU=0.980  Dice=0.990  SSIM=0.960
+
+[108.White_necked_Raven] MEAN → KMeans: IoU=0.272 Dice=0.370 | Otsu: IoU=0.396 Dice=0.509
+------------------------------------------------------------
+
+135.Bank_Swallow/Bank_Swallow_0001_129516.jpg
+  KMeans : IoU=0.265  Dice=0.419  SSIM=0.860
+  Otsu   : IoU=0.230  Dice=0.374  SSIM=0.787
+
+135.Bank_Swallow/Bank_Swallow_0002_129654.jpg
+  KMeans : IoU=0.847  Dice=0.917  SSIM=0.940
+  Otsu   : IoU=0.670  Dice=0.803  SSIM=0.912
+
+135.Bank_Swallow/Bank_Swallow_0003_129623.jpg
+  KMeans : IoU=0.371  Dice=0.541  SSIM=0.820
+  Otsu   : IoU=0.247  Dice=0.396  SSIM=0.810
+
+135.Bank_Swallow/Bank_Swallow_0004_129549.jpg
+  KMeans : IoU=0.611  Dice=0.758  SSIM=0.783
+  Otsu   : IoU=0.702  Dice=0.825  SSIM=0.821
+
+135.Bank_Swallow/Bank_Swallow_0006_129652.jpg
+  KMeans : IoU=0.764  Dice=0.866  SSIM=0.893
+  Otsu   : IoU=0.737  Dice=0.848  SSIM=0.881
+
+135.Bank_Swallow/Bank_Swallow_0007_129514.jpg
+  KMeans : IoU=0.051  Dice=0.098  SSIM=0.442
+  Otsu   : IoU=0.051  Dice=0.097  SSIM=0.415
+
+135.Bank_Swallow/Bank_Swallow_0008_129590.jpg
+  KMeans : IoU=0.033  Dice=0.064  SSIM=0.553
+  Otsu   : IoU=0.054  Dice=0.103  SSIM=0.291
+
+135.Bank_Swallow/Bank_Swallow_0010_129592.jpg
+  KMeans : IoU=0.216  Dice=0.356  SSIM=0.567
+  Otsu   : IoU=0.435  Dice=0.606  SSIM=0.867
+
+135.Bank_Swallow/Bank_Swallow_0012_129518.jpg
+  KMeans : IoU=0.011  Dice=0.023  SSIM=0.358
+  Otsu   : IoU=0.049  Dice=0.094  SSIM=0.410
+
+135.Bank_Swallow/Bank_Swallow_0013_129563.jpg
+  KMeans : IoU=0.723  Dice=0.839  SSIM=0.917
+  Otsu   : IoU=0.678  Dice=0.808  SSIM=0.906
+
+135.Bank_Swallow/Bank_Swallow_0014_129668.jpg
+  KMeans : IoU=0.286  Dice=0.445  SSIM=0.569
+  Otsu   : IoU=0.376  Dice=0.547  SSIM=0.746
+
+135.Bank_Swallow/Bank_Swallow_0015_129853.jpg
+  KMeans : IoU=0.409  Dice=0.581  SSIM=0.765
+  Otsu   : IoU=0.396  Dice=0.568  SSIM=0.757
+
+135.Bank_Swallow/Bank_Swallow_0016_129791.jpg
+  KMeans : IoU=0.196  Dice=0.328  SSIM=0.444
+  Otsu   : IoU=0.223  Dice=0.365  SSIM=0.553
+
+135.Bank_Swallow/Bank_Swallow_0017_129755.jpg
+  KMeans : IoU=0.393  Dice=0.564  SSIM=0.889
+  Otsu   : IoU=0.294  Dice=0.454  SSIM=0.855
+
+135.Bank_Swallow/Bank_Swallow_0018_129891.jpg
+  KMeans : IoU=0.051  Dice=0.096  SSIM=0.810
+  Otsu   : IoU=0.176  Dice=0.299  SSIM=0.783
+
+135.Bank_Swallow/Bank_Swallow_0019_129788.jpg
+  KMeans : IoU=0.022  Dice=0.043  SSIM=0.327
+  Otsu   : IoU=0.096  Dice=0.176  SSIM=0.287
+
+135.Bank_Swallow/Bank_Swallow_0020_129747.jpg
+  KMeans : IoU=0.066  Dice=0.125  SSIM=0.283
+  Otsu   : IoU=0.083  Dice=0.153  SSIM=0.396
+
+135.Bank_Swallow/Bank_Swallow_0022_129923.jpg
+  KMeans : IoU=0.332  Dice=0.499  SSIM=0.612
+  Otsu   : IoU=0.382  Dice=0.553  SSIM=0.663
+
+135.Bank_Swallow/Bank_Swallow_0023_129878.jpg
+  KMeans : IoU=0.303  Dice=0.465  SSIM=0.756
+  Otsu   : IoU=0.282  Dice=0.440  SSIM=0.747
+
+135.Bank_Swallow/Bank_Swallow_0024_129779.jpg
+  KMeans : IoU=0.147  Dice=0.256  SSIM=0.669
+  Otsu   : IoU=0.142  Dice=0.249  SSIM=0.543
+
+135.Bank_Swallow/Bank_Swallow_0025_129521.jpg
+  KMeans : IoU=0.356  Dice=0.525  SSIM=0.937
+  Otsu   : IoU=0.339  Dice=0.507  SSIM=0.936
+
+135.Bank_Swallow/Bank_Swallow_0026_129870.jpg
+  KMeans : IoU=0.573  Dice=0.728  SSIM=0.889
+  Otsu   : IoU=0.584  Dice=0.738  SSIM=0.915
+
+[135.Bank_Swallow] MEAN → KMeans: IoU=0.319 Dice=0.433 | Otsu: IoU=0.329 Dice=0.455
+------------------------------------------------------------
+
+136.Barn_Swallow/Barn_Swallow_0002_130551.jpg
+  KMeans : IoU=0.085  Dice=0.156  SSIM=0.415
+  Otsu   : IoU=0.366  Dice=0.536  SSIM=0.539
+
+136.Barn_Swallow/Barn_Swallow_0003_130086.jpg
+  KMeans : IoU=0.039  Dice=0.075  SSIM=0.763
+  Otsu   : IoU=0.037  Dice=0.072  SSIM=0.753
+
+136.Barn_Swallow/Barn_Swallow_0005_130591.jpg
+  KMeans : IoU=0.633  Dice=0.776  SSIM=0.866
+  Otsu   : IoU=0.677  Dice=0.808  SSIM=0.913
+
+136.Barn_Swallow/Barn_Swallow_0006_131315.jpg
+  KMeans : IoU=0.524  Dice=0.688  SSIM=0.898
+  Otsu   : IoU=0.521  Dice=0.685  SSIM=0.899
+
+136.Barn_Swallow/Barn_Swallow_0007_131030.jpg
+  KMeans : IoU=0.036  Dice=0.069  SSIM=0.798
+  Otsu   : IoU=0.175  Dice=0.298  SSIM=0.821
+
+136.Barn_Swallow/Barn_Swallow_0013_131812.jpg
+  KMeans : IoU=0.189  Dice=0.318  SSIM=0.785
+  Otsu   : IoU=0.219  Dice=0.360  SSIM=0.788
+
+136.Barn_Swallow/Barn_Swallow_0014_130403.jpg
+  KMeans : IoU=0.536  Dice=0.698  SSIM=0.867
+  Otsu   : IoU=0.463  Dice=0.633  SSIM=0.846
+
+136.Barn_Swallow/Barn_Swallow_0015_132757.jpg
+  KMeans : IoU=0.282  Dice=0.440  SSIM=0.482
+  Otsu   : IoU=0.348  Dice=0.517  SSIM=0.658
+
+136.Barn_Swallow/Barn_Swallow_0016_130678.jpg
+  KMeans : IoU=0.168  Dice=0.288  SSIM=0.592
+  Otsu   : IoU=0.168  Dice=0.287  SSIM=0.591
+
+136.Barn_Swallow/Barn_Swallow_0017_132951.jpg
+  KMeans : IoU=0.007  Dice=0.014  SSIM=0.506
+  Otsu   : IoU=0.609  Dice=0.757  SSIM=0.746
+
+136.Barn_Swallow/Barn_Swallow_0018_130709.jpg
+  KMeans : IoU=0.250  Dice=0.400  SSIM=0.549
+  Otsu   : IoU=0.543  Dice=0.704  SSIM=0.861
+
+136.Barn_Swallow/Barn_Swallow_0019_130555.jpg
+  KMeans : IoU=0.118  Dice=0.211  SSIM=0.430
+  Otsu   : IoU=0.525  Dice=0.688  SSIM=0.911
+
+136.Barn_Swallow/Barn_Swallow_0020_132317.jpg
+  KMeans : IoU=0.280  Dice=0.437  SSIM=0.830
+  Otsu   : IoU=0.544  Dice=0.704  SSIM=0.882
+
+136.Barn_Swallow/Barn_Swallow_0021_130367.jpg
+  KMeans : IoU=0.150  Dice=0.261  SSIM=0.504
+  Otsu   : IoU=0.162  Dice=0.279  SSIM=0.562
+
+136.Barn_Swallow/Barn_Swallow_0022_130631.jpg
+  KMeans : IoU=0.367  Dice=0.537  SSIM=0.568
+  Otsu   : IoU=0.598  Dice=0.749  SSIM=0.811
+
+136.Barn_Swallow/Barn_Swallow_0023_130325.jpg
+  KMeans : IoU=0.142  Dice=0.249  SSIM=0.479
+  Otsu   : IoU=0.308  Dice=0.471  SSIM=0.780
+
+136.Barn_Swallow/Barn_Swallow_0026_132386.jpg
+  KMeans : IoU=0.007  Dice=0.013  SSIM=0.542
+  Otsu   : IoU=0.601  Dice=0.750  SSIM=0.792
+
+136.Barn_Swallow/Barn_Swallow_0027_129978.jpg
+  KMeans : IoU=0.529  Dice=0.692  SSIM=0.716
+  Otsu   : IoU=0.514  Dice=0.679  SSIM=0.709
+
+136.Barn_Swallow/Barn_Swallow_0029_132832.jpg
+  KMeans : IoU=0.109  Dice=0.196  SSIM=0.690
+  Otsu   : IoU=0.138  Dice=0.242  SSIM=0.456
+
+136.Barn_Swallow/Barn_Swallow_0030_130191.jpg
+  KMeans : IoU=0.476  Dice=0.645  SSIM=0.854
+  Otsu   : IoU=0.878  Dice=0.935  SSIM=0.963
+
+136.Barn_Swallow/Barn_Swallow_0034_130099.jpg
+  KMeans : IoU=0.274  Dice=0.430  SSIM=0.674
+  Otsu   : IoU=0.423  Dice=0.595  SSIM=0.824
+
+136.Barn_Swallow/Barn_Swallow_0035_131832.jpg
+  KMeans : IoU=0.061  Dice=0.114  SSIM=0.445
+  Otsu   : IoU=0.294  Dice=0.455  SSIM=0.454
+
+[136.Barn_Swallow] MEAN → KMeans: IoU=0.239 Dice=0.350 | Otsu: IoU=0.414 Dice=0.555
+------------------------------------------------------------
+
+137.Cliff_Swallow/Cliff_Swallow_0003_133496.jpg
+  KMeans : IoU=0.460  Dice=0.630  SSIM=0.865
+  Otsu   : IoU=0.385  Dice=0.556  SSIM=0.853
+
+137.Cliff_Swallow/Cliff_Swallow_0005_133696.jpg
+  KMeans : IoU=0.447  Dice=0.617  SSIM=0.817
+  Otsu   : IoU=0.411  Dice=0.582  SSIM=0.801
+
+137.Cliff_Swallow/Cliff_Swallow_0006_133489.jpg
+  KMeans : IoU=0.820  Dice=0.901  SSIM=0.967
+  Otsu   : IoU=0.808  Dice=0.894  SSIM=0.966
+
+137.Cliff_Swallow/Cliff_Swallow_0011_133033.jpg
+  KMeans : IoU=0.206  Dice=0.342  SSIM=0.650
+  Otsu   : IoU=0.194  Dice=0.325  SSIM=0.643
+
+137.Cliff_Swallow/Cliff_Swallow_0012_133527.jpg
+  KMeans : IoU=0.866  Dice=0.928  SSIM=0.895
+  Otsu   : IoU=0.842  Dice=0.914  SSIM=0.893
+
+137.Cliff_Swallow/Cliff_Swallow_0013_133169.jpg
+  KMeans : IoU=0.112  Dice=0.202  SSIM=0.775
+  Otsu   : IoU=0.737  Dice=0.848  SSIM=0.890
+
+137.Cliff_Swallow/Cliff_Swallow_0015_133176.jpg
+  KMeans : IoU=0.130  Dice=0.230  SSIM=0.476
+  Otsu   : IoU=0.275  Dice=0.431  SSIM=0.508
+
+137.Cliff_Swallow/Cliff_Swallow_0017_133806.jpg
+  KMeans : IoU=0.428  Dice=0.600  SSIM=0.454
+  Otsu   : IoU=0.459  Dice=0.629  SSIM=0.566
+
+137.Cliff_Swallow/Cliff_Swallow_0018_132974.jpg
+  KMeans : IoU=0.183  Dice=0.309  SSIM=0.666
+  Otsu   : IoU=0.268  Dice=0.423  SSIM=0.798
+
+137.Cliff_Swallow/Cliff_Swallow_0022_133786.jpg
+  KMeans : IoU=0.766  Dice=0.868  SSIM=0.893
+  Otsu   : IoU=0.762  Dice=0.865  SSIM=0.888
+
+137.Cliff_Swallow/Cliff_Swallow_0023_134314.jpg
+  KMeans : IoU=0.112  Dice=0.201  SSIM=0.550
+  Otsu   : IoU=0.139  Dice=0.244  SSIM=0.641
+
+137.Cliff_Swallow/Cliff_Swallow_0027_133203.jpg
+  KMeans : IoU=0.313  Dice=0.476  SSIM=0.504
+  Otsu   : IoU=0.350  Dice=0.518  SSIM=0.550
+
+137.Cliff_Swallow/Cliff_Swallow_0028_132365.jpg
+  KMeans : IoU=0.267  Dice=0.422  SSIM=0.516
+  Otsu   : IoU=0.345  Dice=0.513  SSIM=0.652
+
+137.Cliff_Swallow/Cliff_Swallow_0031_133164.jpg
+  KMeans : IoU=0.046  Dice=0.088  SSIM=0.577
+  Otsu   : IoU=0.061  Dice=0.115  SSIM=0.392
+
+137.Cliff_Swallow/Cliff_Swallow_0033_133836.jpg
+  KMeans : IoU=0.924  Dice=0.960  SSIM=0.943
+  Otsu   : IoU=0.836  Dice=0.911  SSIM=0.909
+
+137.Cliff_Swallow/Cliff_Swallow_0035_133097.jpg
+  KMeans : IoU=0.775  Dice=0.873  SSIM=0.958
+  Otsu   : IoU=0.735  Dice=0.848  SSIM=0.954
+
+137.Cliff_Swallow/Cliff_Swallow_0036_133168.jpg
+  KMeans : IoU=0.206  Dice=0.341  SSIM=0.319
+  Otsu   : IoU=0.714  Dice=0.833  SSIM=0.857
+
+137.Cliff_Swallow/Cliff_Swallow_0038_133701.jpg
+  KMeans : IoU=0.046  Dice=0.089  SSIM=0.540
+  Otsu   : IoU=0.773  Dice=0.872  SSIM=0.931
+
+137.Cliff_Swallow/Cliff_Swallow_0039_133645.jpg
+  KMeans : IoU=0.174  Dice=0.296  SSIM=0.297
+  Otsu   : IoU=0.211  Dice=0.348  SSIM=0.405
+
+137.Cliff_Swallow/Cliff_Swallow_0041_134111.jpg
+  KMeans : IoU=0.036  Dice=0.070  SSIM=0.342
+  Otsu   : IoU=0.108  Dice=0.195  SSIM=0.375
+
+137.Cliff_Swallow/Cliff_Swallow_0042_133646.jpg
+  KMeans : IoU=0.229  Dice=0.372  SSIM=0.526
+  Otsu   : IoU=0.219  Dice=0.360  SSIM=0.527
+
+137.Cliff_Swallow/Cliff_Swallow_0044_133927.jpg
+  KMeans : IoU=0.336  Dice=0.502  SSIM=0.508
+  Otsu   : IoU=0.465  Dice=0.635  SSIM=0.673
+
+[137.Cliff_Swallow] MEAN → KMeans: IoU=0.358 Dice=0.469 | Otsu: IoU=0.459 Dice=0.584
+------------------------------------------------------------
+
+138.Tree_Swallow/Tree_Swallow_0002_136792.jpg
+  KMeans : IoU=0.052  Dice=0.099  SSIM=0.439
+  Otsu   : IoU=0.481  Dice=0.649  SSIM=0.922
+
+138.Tree_Swallow/Tree_Swallow_0004_135411.jpg
+  KMeans : IoU=0.023  Dice=0.045  SSIM=0.558
+  Otsu   : IoU=0.024  Dice=0.047  SSIM=0.544
+
+138.Tree_Swallow/Tree_Swallow_0008_135352.jpg
+  KMeans : IoU=0.155  Dice=0.268  SSIM=0.505
+  Otsu   : IoU=0.376  Dice=0.547  SSIM=0.861
+
+138.Tree_Swallow/Tree_Swallow_0013_135923.jpg
+  KMeans : IoU=0.242  Dice=0.390  SSIM=0.596
+  Otsu   : IoU=0.248  Dice=0.397  SSIM=0.651
+
+138.Tree_Swallow/Tree_Swallow_0015_134790.jpg
+  KMeans : IoU=0.282  Dice=0.440  SSIM=0.833
+  Otsu   : IoU=0.286  Dice=0.445  SSIM=0.838
+
+138.Tree_Swallow/Tree_Swallow_0016_135549.jpg
+  KMeans : IoU=0.494  Dice=0.661  SSIM=0.870
+  Otsu   : IoU=0.488  Dice=0.656  SSIM=0.870
+
+138.Tree_Swallow/Tree_Swallow_0017_135062.jpg
+  KMeans : IoU=0.067  Dice=0.125  SSIM=0.705
+  Otsu   : IoU=0.161  Dice=0.277  SSIM=0.796
+
+138.Tree_Swallow/Tree_Swallow_0019_137073.jpg
+  KMeans : IoU=0.187  Dice=0.315  SSIM=0.723
+  Otsu   : IoU=0.179  Dice=0.303  SSIM=0.698
+
+138.Tree_Swallow/Tree_Swallow_0020_136587.jpg
+  KMeans : IoU=0.161  Dice=0.278  SSIM=0.821
+  Otsu   : IoU=0.357  Dice=0.526  SSIM=0.756
+
+138.Tree_Swallow/Tree_Swallow_0023_135345.jpg
+  KMeans : IoU=0.154  Dice=0.267  SSIM=0.402
+  Otsu   : IoU=0.303  Dice=0.465  SSIM=0.698
+
+138.Tree_Swallow/Tree_Swallow_0029_134882.jpg
+  KMeans : IoU=0.018  Dice=0.036  SSIM=0.753
+  Otsu   : IoU=0.019  Dice=0.038  SSIM=0.707
+
+138.Tree_Swallow/Tree_Swallow_0030_134942.jpg
+  KMeans : IoU=0.411  Dice=0.583  SSIM=0.853
+  Otsu   : IoU=0.312  Dice=0.475  SSIM=0.798
+
+138.Tree_Swallow/Tree_Swallow_0032_136216.jpg
+  KMeans : IoU=0.096  Dice=0.174  SSIM=0.713
+  Otsu   : IoU=0.088  Dice=0.161  SSIM=0.731
+
+138.Tree_Swallow/Tree_Swallow_0035_136589.jpg
+  KMeans : IoU=0.314  Dice=0.478  SSIM=0.780
+  Otsu   : IoU=0.318  Dice=0.483  SSIM=0.783
+
+138.Tree_Swallow/Tree_Swallow_0037_134647.jpg
+  KMeans : IoU=0.321  Dice=0.486  SSIM=0.755
+  Otsu   : IoU=0.378  Dice=0.548  SSIM=0.814
+
+138.Tree_Swallow/Tree_Swallow_0039_135038.jpg
+  KMeans : IoU=0.630  Dice=0.773  SSIM=0.899
+  Otsu   : IoU=0.591  Dice=0.743  SSIM=0.889
+
+138.Tree_Swallow/Tree_Swallow_0040_135172.jpg
+  KMeans : IoU=0.588  Dice=0.741  SSIM=0.861
+  Otsu   : IoU=0.533  Dice=0.695  SSIM=0.850
+
+138.Tree_Swallow/Tree_Swallow_0041_136439.jpg
+  KMeans : IoU=0.248  Dice=0.397  SSIM=0.425
+  Otsu   : IoU=0.237  Dice=0.384  SSIM=0.352
+
+138.Tree_Swallow/Tree_Swallow_0042_136401.jpg
+  KMeans : IoU=0.111  Dice=0.200  SSIM=0.493
+  Otsu   : IoU=0.112  Dice=0.202  SSIM=0.448
+
+138.Tree_Swallow/Tree_Swallow_0043_136878.jpg
+  KMeans : IoU=0.066  Dice=0.125  SSIM=0.577
+  Otsu   : IoU=0.061  Dice=0.115  SSIM=0.567
+
+138.Tree_Swallow/Tree_Swallow_0044_135984.jpg
+  KMeans : IoU=0.830  Dice=0.907  SSIM=0.900
+  Otsu   : IoU=0.778  Dice=0.875  SSIM=0.880
+
+138.Tree_Swallow/Tree_Swallow_0046_135770.jpg
+  KMeans : IoU=0.220  Dice=0.361  SSIM=0.603
+  Otsu   : IoU=0.528  Dice=0.691  SSIM=0.865
+
+[138.Tree_Swallow] MEAN → KMeans: IoU=0.258 Dice=0.370 | Otsu: IoU=0.312 Dice=0.442
+------------------------------------------------------------
+
+============================================================
+OVERALL
+  KMeans : IoU=0.311  Dice=0.424
+  Otsu   : IoU=0.432  Dice=0.557
