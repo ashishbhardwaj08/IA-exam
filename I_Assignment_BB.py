@@ -1,6 +1,6 @@
 import cv2
 
-# -----------------------------
+
 # INPUT (example)
 # -----------------------------
 image_path = "Black_Footed_Albatross_0001_796111.jpg"   # path to your image
